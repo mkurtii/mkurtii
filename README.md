@@ -192,19 +192,6 @@ Currently researching Web3 fundamentals, distributed systems concepts, and cross
 
 </div>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 # Professional Principles
 
@@ -213,8 +200,3 @@ Currently researching Web3 fundamentals, distributed systems concepts, and cross
 > User experience is part of software architecture.
 
 ---
-
-# Connect
-
-* GitHub → https://github.com/YOUR_USERNAME
-* LinkedIn → https://linkedin.com/in/YOUR_LINK
